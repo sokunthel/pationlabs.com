@@ -6,12 +6,12 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 .jumbotron {
-  background: url('../img/bg.jpg') no-repeat center bottom;
+  background: url('../img/bg-code.jpg') no-repeat center bottom;
   min-height: 100%;
   min-height: 100vh;
 }
 .coming-soon {
-  border: 2px solid #ffffff;
+  background: rgba(0, 0, 0, .7);
   color: #ffffff;
   font-size: 45px;
   margin: 0 auto;
